@@ -1,0 +1,6 @@
+{
+  "name": "CineVerse 3D - Movie Trailers & Recommendations",
+  "description": "Immersive 3D movie experience featuring full-length 4K movie streaming, local drive downloads, official trailers, interactive parallax scroll, genre filtering, real-time search, and a personalized recommendation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
